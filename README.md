@@ -3,7 +3,7 @@ V.509
 
 Validate your X.509 certificate implementations.
 
-**This is just an idea and nothing works now. Stay tuned, if you happened to see this repo accidently.**
+**This is just an idea and nothing works now. Stay tuned! **
 
 ### The Idea 
 
@@ -30,8 +30,10 @@ The validator should generate certificates on the fly depending upon the test ca
 * Make a modular cert-test-suite which specifies the Test Name, X.509 fields, Good / Bad and other constraints.
 * A REST API which says the validator to START and STOP the scans.
 * Config scripts to do the dirty job on the client side.
-* 
 
+### Existing work
+
+* TLSPretense - Am not so impressed with it and needs a lot more than this.
 
 ### Critics and comments
 
