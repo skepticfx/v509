@@ -3,7 +3,7 @@ V.509
 
 Validate your X.509 certificate implementations.
 
-**This is just an idea and nothing works now. Stay tuned! **
+** This is just an idea and nothing works now. Stay tuned! **
 
 ### The Idea 
 
