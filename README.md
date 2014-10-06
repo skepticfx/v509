@@ -33,7 +33,7 @@ The validator should generate certificates on the fly depending upon the test ca
 
 ### Existing work
 
-* TLSPretense - Am not so impressed with it and needs a lot more than this.
+* TLSPretense - 
 
 ### Critics and comments
 
